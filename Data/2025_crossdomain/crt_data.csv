@@ -1,0 +1,778 @@
+id,task,response,rt,correct,question_id
+participant_1,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.1,10667,False,1
+participant_1,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",100,8276,False,2
+participant_1,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",24,10855,False,3
+participant_1,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",4,17372,True,4
+participant_1,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,30,15960,False,5
+participant_1,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",10,49885,False,6
+participant_1,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",profit,17441,True,7
+participant_10,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",loss,27437,False,7
+participant_10,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",20,39548,True,6
+participant_10,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",4,89528,True,4
+participant_10,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,15,19771,False,5
+participant_10,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",5,15841,True,2
+participant_10,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.05,37580,True,1
+participant_10,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",24,17263,False,3
+participant_100,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.1,25885,False,1
+participant_100,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",100,29760,False,2
+participant_100,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",24,38055,False,3
+participant_100,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",4,71740,True,4
+participant_100,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,29,35559,True,5
+participant_100,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",20,21674,True,6
+participant_100,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",profit,68661,True,7
+participant_101,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",20,56035,True,6
+participant_101,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",profit,22181,True,7
+participant_101,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,29,14003,True,5
+participant_101,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",5,18063,True,2
+participant_101,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",47,33490,True,3
+participant_101,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",6,12462,False,4
+participant_101,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,1.1,34050,False,1
+participant_102,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",20,46456,True,6
+participant_102,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,29,38868,True,5
+participant_102,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",4,54301,True,4
+participant_102,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",profit,49400,True,7
+participant_102,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",100,44578,False,2
+participant_102,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.1,29413,False,1
+participant_102,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",12,50244,False,3
+participant_103,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.1,38461,False,1
+participant_103,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",5,55277,True,2
+participant_103,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",47,27593,True,3
+participant_103,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",4,29203,True,4
+participant_103,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,29,21374,True,5
+participant_103,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",20,23339,True,6
+participant_103,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",loss,27394,False,7
+participant_104,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",20,127524,True,6
+participant_104,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",loss,98186,False,7
+participant_104,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",4,123047,True,4
+participant_104,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,29,67290,True,5
+participant_104,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",1,53805,False,2
+participant_104,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.1,46972,False,1
+participant_104,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",24,56244,False,3
+participant_105,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",profit,312304,True,7
+participant_105,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,28,54527,False,5
+participant_105,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",9,52431,False,4
+participant_105,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",20,151378,True,6
+participant_105,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",500,35938,False,2
+participant_105,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.1,25166,False,1
+participant_105,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",24,26032,False,3
+participant_106,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",0,45331,False,6
+participant_106,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.1,55857,False,1
+participant_106,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",5,81438,True,2
+participant_106,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",24,42204,False,3
+participant_106,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",6,52959,False,4
+participant_106,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,30,19219,False,5
+participant_106,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",profit,138710,True,7
+participant_107,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",loss,68445,False,7
+participant_107,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,29,47869,True,5
+participant_107,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",3,36413,False,4
+participant_107,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",20,34163,True,6
+participant_107,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",5,45886,True,2
+participant_107,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.5,93044,False,1
+participant_107,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",47,52675,True,3
+participant_108,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.05,75810,True,1
+participant_108,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",5,39541,True,2
+participant_108,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",47,36254,True,3
+participant_108,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",4,54125,True,4
+participant_108,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,29,31057,True,5
+participant_108,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",20,34875,True,6
+participant_108,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",loss,28991,False,7
+participant_109,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",profit,19469,True,7
+participant_109,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",20,18073,True,6
+participant_109,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,29,16750,True,5
+participant_109,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",5,23107,True,2
+participant_109,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",47,17110,True,3
+participant_109,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.05,89256,True,1
+participant_109,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",4,31816,True,4
+participant_11,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",20,55951,True,6
+participant_11,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.1,35599,False,1
+participant_11,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",5,139116,True,2
+participant_11,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",3,189479,False,3
+participant_11,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",9,35000,False,4
+participant_11,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,31,30753,False,5
+participant_11,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",loss,96791,False,7
+participant_110,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",10,137493,False,6
+participant_110,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",profit,38981,True,7
+participant_110,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",18,25899,False,4
+participant_110,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,29,58355,True,5
+participant_110,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",24,41365,False,3
+participant_110,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",100,16792,False,2
+participant_110,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.1,20099,False,1
+participant_111,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.05,75011,True,1
+participant_111,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",5,36459,True,2
+participant_111,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",47,38163,True,3
+participant_111,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",4,30893,True,4
+participant_111,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,29,50630,True,5
+participant_111,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",20,21955,True,6
+participant_111,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",loss,22890,False,7
+participant_112,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",profit,101854,True,7
+participant_112,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",20,72865,True,6
+participant_112,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,1,29742,False,5
+participant_112,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",9,51208,False,4
+participant_112,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",24,34018,False,3
+participant_112,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",100,45017,False,2
+participant_112,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.1,32505,False,1
+participant_113,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.05,42133,True,1
+participant_113,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",5,21833,True,2
+participant_113,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",47,17244,True,3
+participant_113,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",4,26219,True,4
+participant_113,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,29,24909,True,5
+participant_113,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",20,19602,True,6
+participant_113,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",loss,39917,False,7
+participant_114,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",loss,70727,False,7
+participant_114,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",20,54685,True,6
+participant_114,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,30,20176,False,5
+participant_114,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.1,28179,False,1
+participant_114,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",47,105255,True,3
+participant_114,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",5,30915,True,2
+participant_114,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",4,86168,True,4
+participant_115,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.1,48878,False,1
+participant_115,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",100,49041,False,2
+participant_115,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",24,36250,False,3
+participant_115,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",18,47652,False,4
+participant_115,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,2,26571,False,5
+participant_115,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",10,210785,False,6
+participant_115,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",even,88050,False,7
+participant_116,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",loss,3677,False,7
+participant_116,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",20,38005,True,6
+participant_116,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,31,4709,False,5
+participant_116,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.1,9869,False,1
+participant_116,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",47,4482,True,3
+participant_116,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",5,4741,True,2
+participant_116,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",4,5097,True,4
+participant_12,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,29,16538,True,5
+participant_12,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",loss,100749,False,7
+participant_12,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",20,83653,True,6
+participant_12,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",4,22998,True,4
+participant_12,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",5,8035,True,2
+participant_12,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.1,17417,False,1
+participant_12,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",47,29921,True,3
+participant_13,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.05,125857,True,1
+participant_13,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",100,15430,False,2
+participant_13,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",4.5,120795,False,3
+participant_13,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",12,30169,False,4
+participant_13,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,31,39007,False,5
+participant_13,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",10,53679,False,6
+participant_13,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",loss,65175,False,7
+participant_15,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,1,17678,False,1
+participant_15,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",10,15331,False,2
+participant_15,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",24,10446,False,3
+participant_15,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",3,13381,False,4
+participant_15,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,15,13405,False,5
+participant_15,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",10,19409,False,6
+participant_15,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",profit,21261,True,7
+participant_16,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",10,10634,False,6
+participant_16,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",loss,13402,False,7
+participant_16,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,30,4283,False,5
+participant_16,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",9,14692,False,4
+participant_16,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",47,18246,True,3
+participant_16,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",5,9466,True,2
+participant_16,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.1,9733,False,1
+participant_17,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",10,14065,False,6
+participant_17,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,30,4317,False,5
+participant_17,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",9,9855,False,4
+participant_17,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",profit,9746,True,7
+participant_17,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",100,4584,False,2
+participant_17,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.1,14428,False,1
+participant_17,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",24,9589,False,3
+participant_18,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.05,17461,True,1
+participant_18,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",5,4636,True,2
+participant_18,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",47,6154,True,3
+participant_18,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",4,37087,True,4
+participant_18,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,29,25358,True,5
+participant_18,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",20,30021,True,6
+participant_18,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",loss,26663,False,7
+participant_19,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,15,14485,False,5
+participant_19,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",6,15659,False,4
+participant_19,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",30,22885,False,6
+participant_19,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",100,12032,False,2
+participant_19,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.1,15669,False,1
+participant_19,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",24,13957,False,3
+participant_19,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",even,28790,False,7
+participant_2,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",0,57122,False,6
+participant_2,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",loss,82230,False,7
+participant_2,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",9,127817,False,4
+participant_2,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,29,13911,True,5
+participant_2,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",24,5707,False,3
+participant_2,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",500,7166,False,2
+participant_2,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.1,17071,False,1
+participant_20,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",10,27870,False,6
+participant_20,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,30,17205,False,5
+participant_20,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",6,41234,False,4
+participant_20,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",profit,21207,True,7
+participant_20,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",100,20767,False,2
+participant_20,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.1,15345,False,1
+participant_20,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",24,12574,False,3
+participant_21,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.05,159893,True,1
+participant_21,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",5,44191,True,2
+participant_21,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",47,4016,True,3
+participant_21,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",6,32851,False,4
+participant_21,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,30,17933,False,5
+participant_21,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",20,24586,True,6
+participant_21,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",loss,41766,False,7
+participant_22,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,15,17307,False,5
+participant_22,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",20,38986,True,6
+participant_22,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",4,45454,True,4
+participant_22,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",loss,48862,False,7
+participant_22,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",5,52056,True,2
+participant_22,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.1,16020,False,1
+participant_22,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",47,30842,True,3
+participant_23,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,5,16628,False,1
+participant_23,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",5,8022,True,2
+participant_23,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",47,16459,True,3
+participant_23,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",9,18514,False,4
+participant_23,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,31,9148,False,5
+participant_23,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",0,53796,False,6
+participant_23,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",loss,28618,False,7
+participant_24,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",loss,27361,False,7
+participant_24,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",20,115693,True,6
+participant_24,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,29,21714,True,5
+participant_24,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",4,43974,True,4
+participant_24,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",5,19754,True,2
+participant_24,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,1.05,8828,False,1
+participant_24,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",47,5963,True,3
+participant_25,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.1,17116,False,1
+participant_25,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",5,8246,True,2
+participant_25,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",47,6185,True,3
+participant_25,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",4,32668,True,4
+participant_25,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,29,5848,True,5
+participant_25,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",20,39210,True,6
+participant_25,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",loss,18340,False,7
+participant_26,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",10,12206,False,6
+participant_26,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",loss,22699,False,7
+participant_26,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,31,12047,False,5
+participant_26,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",9,24753,False,4
+participant_26,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",12,25317,False,3
+participant_26,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",100,14129,False,2
+participant_26,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.05,20239,True,1
+participant_27,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.1,10100,False,1
+participant_27,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",100,14758,False,2
+participant_27,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",12,14829,False,3
+participant_27,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",8,34679,False,4
+participant_27,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,30,10880,False,5
+participant_27,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",10,20276,False,6
+participant_27,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",loss,92761,False,7
+participant_28,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",loss,81656,False,7
+participant_28,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",20,28301,True,6
+participant_28,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,29,35365,True,5
+participant_28,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",4,61854,True,4
+participant_28,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",47,33985,True,3
+participant_28,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",5,93626,True,2
+participant_28,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.05,17329,True,1
+participant_29,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.1,11653,False,1
+participant_29,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",5,83494,True,2
+participant_29,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",47,64485,True,3
+participant_29,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",6,47660,False,4
+participant_29,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,30,20922,False,5
+participant_29,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",20,48224,True,6
+participant_29,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",profit,44285,True,7
+participant_3,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",profit,21607,True,7
+participant_3,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",10,21047,False,6
+participant_3,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,29,56639,True,5
+participant_3,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.1,17346,False,1
+participant_3,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",24,19973,False,3
+participant_3,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",5,13276,True,2
+participant_3,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",4,106596,True,4
+participant_30,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.1,40584,False,1
+participant_30,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",5,29533,True,2
+participant_30,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",36,72825,False,3
+participant_30,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",9,25031,False,4
+participant_30,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,30,20949,False,5
+participant_30,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",20,184371,True,6
+participant_30,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",loss,130492,False,7
+participant_31,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",loss,45529,False,7
+participant_31,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",10,88729,False,6
+participant_31,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,29,101554,True,5
+participant_31,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.05,55071,True,1
+participant_31,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",47,16216,True,3
+participant_31,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",5,65257,True,2
+participant_31,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",4,161880,True,4
+participant_32,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,29,6615,True,5
+participant_32,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",loss,70774,False,7
+participant_32,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",20,73727,True,6
+participant_32,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",4,47885,True,4
+participant_32,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",5,46199,True,2
+participant_32,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",47,8121,True,3
+participant_32,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.5,44748,False,1
+participant_33,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.05,19756,True,1
+participant_33,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",5,6091,True,2
+participant_33,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",47,7987,True,3
+participant_33,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",4,26672,True,4
+participant_33,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,29,10198,True,5
+participant_33,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",20,10793,True,6
+participant_33,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",loss,30805,False,7
+participant_34,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",loss,37667,False,7
+participant_34,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",0,29032,False,6
+participant_34,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,30,44292,False,5
+participant_34,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",12,37581,False,4
+participant_34,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",47,7125,True,3
+participant_34,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",5,12883,True,2
+participant_34,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.1,8269,False,1
+participant_35,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.1,36156,False,1
+participant_35,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",20,18959,False,2
+participant_35,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",12,8746,False,3
+participant_35,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",9,52483,False,4
+participant_35,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,30,24341,False,5
+participant_35,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",10,39382,False,6
+participant_35,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",profit,33801,True,7
+participant_36,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",loss,57899,False,7
+participant_36,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",10,56484,False,6
+participant_36,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,29,34107,True,5
+participant_36,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.1,52947,False,1
+participant_36,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",49,42094,False,3
+participant_36,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",5,27970,True,2
+participant_36,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",6,71784,False,4
+participant_37,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",10,15414,False,6
+participant_37,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,15,51932,False,5
+participant_37,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",4,16195,True,4
+participant_37,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",loss,19795,False,7
+participant_37,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",5,16150,True,2
+participant_37,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.1,5323,False,1
+participant_37,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",47,10052,True,3
+participant_38,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.1,18404,False,1
+participant_38,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",100,37876,False,2
+participant_38,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",5.5,112587,False,3
+participant_38,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",4,92628,True,4
+participant_38,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,30,11519,False,5
+participant_38,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",10,38995,False,6
+participant_38,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",loss,52795,False,7
+participant_39,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,29,12511,True,5
+participant_39,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",profit,34172,True,7
+participant_39,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",20,4784,True,6
+participant_39,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",47,23165,True,3
+participant_39,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",5,13571,True,2
+participant_39,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",4,8943,True,4
+participant_39,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.05,54813,True,1
+participant_4,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",loss,44544,False,7
+participant_4,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.11,10108,False,1
+participant_4,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",100,12501,False,2
+participant_4,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",24,4467,False,3
+participant_4,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",5,26260,False,4
+participant_4,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,1,9105,False,5
+participant_4,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",10,11360,False,6
+participant_40,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",loss,31104,False,7
+participant_40,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",20,14571,True,6
+participant_40,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,1,13520,False,5
+participant_40,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.1,15918,False,1
+participant_40,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",47,4318,True,3
+participant_40,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",5,4085,True,2
+participant_40,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",9,4347,False,4
+participant_41,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,15,12036,False,5
+participant_41,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",0,35347,False,6
+participant_41,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",loss,49774,False,7
+participant_41,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",47,9608,True,3
+participant_41,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",5,24398,True,2
+participant_41,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.05,60431,True,1
+participant_41,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",4.5,25251,False,4
+participant_42,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",10,61493,False,6
+participant_42,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,29,64722,True,5
+participant_42,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",4,112123,True,4
+participant_42,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",loss,104041,False,7
+participant_42,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",5,57323,True,2
+participant_42,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,5,81505,False,1
+participant_42,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",47,57676,True,3
+participant_43,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.05,25731,True,1
+participant_43,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",5,18102,True,2
+participant_43,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",47,26306,True,3
+participant_43,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",4,19321,True,4
+participant_43,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,29,19455,True,5
+participant_43,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",20,23914,True,6
+participant_43,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",loss,23271,False,7
+participant_44,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,30,17010,False,5
+participant_44,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",3,46790,False,4
+participant_44,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",30,12462,False,6
+participant_44,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",100,21103,False,2
+participant_44,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.1,27545,False,1
+participant_44,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",47,12949,True,3
+participant_44,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",loss,28400,False,7
+participant_45,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",20,12158,True,6
+participant_45,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",loss,37256,False,7
+participant_45,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,31,33131,False,5
+participant_45,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",9,20795,False,4
+participant_45,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",36,45914,False,3
+participant_45,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",5,7725,True,2
+participant_45,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.09,10765,False,1
+participant_46,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",20,108999,True,6
+participant_46,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,29,50347,True,5
+participant_46,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",4,67204,True,4
+participant_46,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",loss,36010,False,7
+participant_46,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",5,10573,True,2
+participant_46,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.05,13551,True,1
+participant_46,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",47,8654,True,3
+participant_47,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,5,12177,False,1
+participant_47,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",5,15604,True,2
+participant_47,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",47,6039,True,3
+participant_47,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",4,56833,True,4
+participant_47,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,29,5939,True,5
+participant_47,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",20,38343,True,6
+participant_47,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",loss,65333,False,7
+participant_48,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,29,24721,True,5
+participant_48,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",10,20846,False,6
+participant_48,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",4,60647,True,4
+participant_48,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",loss,26559,False,7
+participant_48,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",5,45216,True,2
+participant_48,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,5,35003,False,1
+participant_48,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",47,13177,True,3
+participant_5,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.05,15782,True,1
+participant_5,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",100,13277,False,2
+participant_5,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",24,13929,False,3
+participant_5,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",15,42401,False,4
+participant_5,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,1,19732,False,5
+participant_5,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",10,50261,False,6
+participant_5,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",loss,83418,False,7
+participant_50,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",loss,22955,False,7
+participant_50,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",90,29829,False,6
+participant_50,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,15,12789,False,5
+participant_50,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",5,34606,False,4
+participant_50,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",1,26676,False,2
+participant_50,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.05,74591,True,1
+participant_50,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",1,10261,False,3
+participant_52,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.1,32832,False,1
+participant_52,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",5,20774,True,2
+participant_52,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",12,19933,False,3
+participant_52,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",4.5,48914,False,4
+participant_52,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,29,21880,True,5
+participant_52,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",20,30749,True,6
+participant_52,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",profit,61270,True,7
+participant_53,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",10,13955,False,6
+participant_53,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",loss,70055,False,7
+participant_53,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,29,94360,True,5
+participant_53,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",4,40536,True,4
+participant_53,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",47,4233,True,3
+participant_53,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",5,3528,True,2
+participant_53,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.05,7205,True,1
+participant_54,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",20,41884,True,6
+participant_54,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,29,37005,True,5
+participant_54,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",4,35830,True,4
+participant_54,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",profit,25424,True,7
+participant_54,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",5,59876,True,2
+participant_54,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.1,28088,False,1
+participant_54,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",47,6092,True,3
+participant_55,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.1,626184,False,1
+participant_55,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",100,13604,False,2
+participant_55,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",24,25606,False,3
+participant_55,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",4,70267,True,4
+participant_55,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,29,47723,True,5
+participant_55,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",20,41294,True,6
+participant_55,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",loss,34525,False,7
+participant_56,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,31,57368,False,5
+participant_56,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",0,49679,False,6
+participant_56,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",12,35160,False,4
+participant_56,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",loss,44172,False,7
+participant_56,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",5,11563,True,2
+participant_56,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.1,31310,False,1
+participant_56,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",47,17790,True,3
+participant_57,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.05,19071,True,1
+participant_57,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",5,17211,True,2
+participant_57,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",47,73793,True,3
+participant_57,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",3,44371,False,4
+participant_57,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,30,50838,False,5
+participant_57,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",20,151689,True,6
+participant_57,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",loss,68543,False,7
+participant_58,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",loss,31598,False,7
+participant_58,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",20,68711,True,6
+participant_58,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,29,30544,True,5
+participant_58,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",4,40626,True,4
+participant_58,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",100,8908,False,2
+participant_58,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.1,29198,False,1
+participant_58,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",24,27115,False,3
+participant_59,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.1,62830,False,1
+participant_59,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",5,48388,True,2
+participant_59,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",47,46021,True,3
+participant_59,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",5,115815,False,4
+participant_59,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,15,20137,False,5
+participant_59,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",20,77903,True,6
+participant_59,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",loss,58385,False,7
+participant_6,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",20,39664,True,6
+participant_6,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",loss,93855,False,7
+participant_6,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,30,96053,False,5
+participant_6,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",4,177075,True,4
+participant_6,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",47,85389,True,3
+participant_6,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",5,111610,True,2
+participant_6,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.05,37208,True,1
+participant_60,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",20,19461,True,6
+participant_60,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,30,17369,False,5
+participant_60,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",4,14954,True,4
+participant_60,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",profit,13128,True,7
+participant_60,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",5,20118,True,2
+participant_60,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.1,24663,False,1
+participant_60,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",24,25270,False,3
+participant_61,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.1,57400,False,1
+participant_61,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",100,61043,False,2
+participant_61,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",24,48336,False,3
+participant_61,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",3,56239,False,4
+participant_61,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,30,43983,False,5
+participant_61,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",10,48358,False,6
+participant_61,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",profit,69182,True,7
+participant_62,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,30,19601,False,5
+participant_62,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",0,66592,False,6
+participant_62,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",6,14056,False,4
+participant_62,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",loss,81337,False,7
+participant_62,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",20,37786,False,2
+participant_62,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.1,9076,False,1
+participant_62,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",24,22593,False,3
+participant_63,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.1,10375,False,1
+participant_63,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",100,10622,False,2
+participant_63,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",24,9995,False,3
+participant_63,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",6,49821,False,4
+participant_63,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,30,16282,False,5
+participant_63,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",20,46766,True,6
+participant_63,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",profit,22871,True,7
+participant_64,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",loss,64144,False,7
+participant_64,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",20,48269,True,6
+participant_64,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,29,38781,True,5
+participant_64,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",4,63511,True,4
+participant_64,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",5,44952,True,2
+participant_64,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.05,221052,True,1
+participant_64,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",47,39357,True,3
+participant_65,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.1,23989,False,1
+participant_65,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",100,24742,False,2
+participant_65,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",47,112008,True,3
+participant_65,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",9,65346,False,4
+participant_65,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,29,27236,True,5
+participant_65,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",10,39013,False,6
+participant_65,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",loss,81198,False,7
+participant_66,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",0,42785,False,6
+participant_66,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",loss,42966,False,7
+participant_66,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,30,40768,False,5
+participant_66,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",3,58524,False,4
+participant_66,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",47,30918,True,3
+participant_66,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",5,25098,True,2
+participant_66,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.05,32660,True,1
+participant_67,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",10,19267,False,6
+participant_67,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,15,15948,False,5
+participant_67,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",4,20947,True,4
+participant_67,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",profit,16299,True,7
+participant_67,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",5,31796,True,2
+participant_67,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.1,20084,False,1
+participant_67,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",24,17214,False,3
+participant_68,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.1,7990,False,1
+participant_68,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",5,4381,True,2
+participant_68,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",24,8636,False,3
+participant_68,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",24,3882,False,4
+participant_68,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,30,33894,False,5
+participant_68,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",10,7237,False,6
+participant_68,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",profit,6583,True,7
+participant_69,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,29,39660,True,5
+participant_69,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",10,15582,False,6
+participant_69,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",9,26463,False,4
+participant_69,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",loss,45648,False,7
+participant_69,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",5,13868,True,2
+participant_69,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.05,14880,True,1
+participant_69,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",47,18406,True,3
+participant_7,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.1,24584,False,1
+participant_7,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",1000,27158,False,2
+participant_7,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",48,12366,False,3
+participant_7,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",3,19381,False,4
+participant_7,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,30,12014,False,5
+participant_7,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",25,12737,False,6
+participant_7,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",profit,20251,True,7
+participant_70,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",profit,27150,True,7
+participant_70,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",80,58918,False,6
+participant_70,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,31,34121,False,5
+participant_70,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",4,105052,True,4
+participant_70,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",5,187487,True,2
+participant_70,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.1,5052,False,1
+participant_70,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",47,9382,True,3
+participant_71,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.05,15168,True,1
+participant_71,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",5,19480,True,2
+participant_71,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",47,11728,True,3
+participant_71,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",2,52805,False,4
+participant_71,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,29,11745,True,5
+participant_71,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",0,19062,False,6
+participant_71,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",profit,39552,True,7
+participant_72,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",10,52762,False,6
+participant_72,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",loss,72268,False,7
+participant_72,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,29,35334,True,5
+participant_72,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",500,70441,False,2
+participant_72,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",12,152555,False,3
+participant_72,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.1,18547,False,1
+participant_72,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",6,68302,False,4
+participant_73,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.1,19871,False,1
+participant_73,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",100,37212,False,2
+participant_73,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",24,51581,False,3
+participant_73,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",9,38899,False,4
+participant_73,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,30,17407,False,5
+participant_73,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",10,45027,False,6
+participant_73,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",profit,58571,True,7
+participant_74,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",loss,67500,False,7
+participant_74,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",20,37369,True,6
+participant_74,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,29,40812,True,5
+participant_74,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",100,159705,False,2
+participant_74,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",47,74131,True,3
+participant_74,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,10,28404,False,1
+participant_74,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",4,47119,True,4
+participant_75,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,30,43835,False,5
+participant_75,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",10,39033,False,6
+participant_75,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",4,58626,True,4
+participant_75,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",profit,18720,True,7
+participant_75,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",100,34482,False,2
+participant_75,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.05,38449,True,1
+participant_75,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",47,9917,True,3
+participant_76,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",loss,58803,False,7
+participant_76,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",20,83710,True,6
+participant_76,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,29,57667,True,5
+participant_76,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",5,55859,True,2
+participant_76,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",47,49058,True,3
+participant_76,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",6,96154,False,4
+participant_76,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.1,22838,False,1
+participant_77,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",0,94961,False,6
+participant_77,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,31,16010,False,5
+participant_77,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",loss,33501,False,7
+participant_77,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",5,18602,True,2
+participant_77,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.05,80732,True,1
+participant_77,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",47,38253,True,3
+participant_77,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",3,54778,False,4
+participant_78,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.1,23188,False,1
+participant_78,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",100,43614,False,2
+participant_78,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",24,45574,False,3
+participant_78,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",6,93913,False,4
+participant_78,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,30,13437,False,5
+participant_78,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",20,26012,True,6
+participant_78,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",profit,45370,True,7
+participant_79,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,30,22611,False,5
+participant_79,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",profit,23889,True,7
+participant_79,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",10,14045,False,6
+participant_79,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",12,44155,False,4
+participant_79,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",5,11921,True,2
+participant_79,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.1,10055,False,1
+participant_79,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",47,49120,True,3
+participant_8,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",30,18691,False,6
+participant_8,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,30,12493,False,5
+participant_8,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",3,37314,False,4
+participant_8,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",profit,27707,True,7
+participant_8,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",5,4013,True,2
+participant_8,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.05,18034,True,1
+participant_8,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",47,4945,True,3
+participant_80,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,1.1,104752,False,1
+participant_80,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",5,107286,True,2
+participant_80,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",47,125065,True,3
+participant_80,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",4,93697,True,4
+participant_80,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,29,66781,True,5
+participant_80,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",20,95593,True,6
+participant_80,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",profit,222253,True,7
+participant_81,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,29,76399,True,5
+participant_81,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",20,44523,True,6
+participant_81,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",4,66881,True,4
+participant_81,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",loss,81945,False,7
+participant_81,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",5,61967,True,2
+participant_81,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.1,49846,False,1
+participant_81,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",47,87047,True,3
+participant_82,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.1,24523,False,1
+participant_82,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",100,41503,False,2
+participant_82,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",47,26736,True,3
+participant_82,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",4,51394,True,4
+participant_82,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,29,29463,True,5
+participant_82,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",20,48733,True,6
+participant_82,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",loss,64988,False,7
+participant_83,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",loss,9342,False,7
+participant_83,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",20,4975,True,6
+participant_83,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,30,8634,False,5
+participant_83,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",4,88644,True,4
+participant_83,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",5,13882,True,2
+participant_83,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.1,18905,False,1
+participant_83,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",47,34959,True,3
+participant_84,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.05,16372,True,1
+participant_84,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",5,20792,True,2
+participant_84,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",47,10471,True,3
+participant_84,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",4,59326,True,4
+participant_84,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,29,9897,True,5
+participant_84,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",20,72449,True,6
+participant_84,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",loss,34430,False,7
+participant_85,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",loss,24606,False,7
+participant_85,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",0,60639,False,6
+participant_85,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,1,11579,False,5
+participant_85,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",5,15023,True,2
+participant_85,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",47,21359,True,3
+participant_85,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.1,23642,False,1
+participant_85,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",11,60869,False,4
+participant_86,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",10,212334,False,6
+participant_86,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,29,21340,True,5
+participant_86,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",4,54825,True,4
+participant_86,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",loss,58288,False,7
+participant_86,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",5,41260,True,2
+participant_86,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.05,125826,True,1
+participant_86,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",47,19643,True,3
+participant_87,"Un bate y una pelota cuestan $1,10. El bate cuesta $1,00 más que la pelota. ¿Cuánto cuesta la pelota?",10,5498,False,1
+participant_87,"Si 5 máquinas tardan 5 minutos en fabricar 5 widgets, ¿cuánto tiempo tardarían 100 máquinas en fabricar 100 widgets?",100,3306,False,2
+participant_87,"En un lago hay una zona de nenúfares. Cada día, la zona duplica su tamaño. Si la zona tarda 48 días en cubrir todo el lago, ¿cuánto tiempo tardará en cubrir la mitad del lago?",24,3098,False,3
+participant_87,"Si Juan puede beber un barril de agua en 6 días y María puede beber un barril de agua en 12 días, ¿cuánto tiempo les tomaría beber un barril de agua juntos?",6,5265,False,4
+participant_87,Jerry obtuvo la 15.ª calificación más alta y la 15.ª más baja de la clase. ¿Cuántos estudiantes hay en la clase?,15,4289,False,5
+participant_87,"Un hombre compra un cerdo por 60 dólares, lo vende por 70, lo vuelve a comprar por 80 y finalmente lo vende por 90. ¿Cuánto ha ganado?",0,20218,False,6
+participant_87,"Simon decidió invertir 8.000 dólares en la bolsa un día antes en 2008. Seis meses después de la inversión, el 17 de julio, las acciones que había comprado habían bajado un 50%. Afortunadamente para Simon, desde el 17 de julio hasta el 17 de octubre, las acciones que había comprado subieron un 75%. En ese momento...",profit,12536,True,7
+participant_88,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,30,15810,False,5
+participant_88,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",10,16166,False,6
+participant_88,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",3,24118,False,4
+participant_88,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",profit,45398,True,7
+participant_88,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",100,19873,False,2
+participant_88,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.1,38829,False,1
+participant_88,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",24,21685,False,3
+participant_9,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.05,279247,True,1
+participant_9,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",5,50991,True,2
+participant_9,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",47,23648,True,3
+participant_9,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",4,140158,True,4
+participant_9,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,29,22270,True,5
+participant_9,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",20,60958,True,6
+participant_9,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",loss,88500,False,7
+participant_90,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",loss,85902,False,7
+participant_90,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",0,116906,False,6
+participant_90,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,30,16827,False,5
+participant_90,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",12,35078,False,4
+participant_90,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",100,11305,False,2
+participant_90,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.1,19666,False,1
+participant_90,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",24,42022,False,3
+participant_91,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.1,22025,False,1
+participant_91,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",5,6521,True,2
+participant_91,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",48,6174,False,3
+participant_91,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",12,12582,False,4
+participant_91,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,15,6801,False,5
+participant_91,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",10,12312,False,6
+participant_91,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",profit,49937,True,7
+participant_92,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",loss,96992,False,7
+participant_92,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",20,54893,True,6
+participant_92,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,29,70383,True,5
+participant_92,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",5,63525,True,2
+participant_92,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",47,108632,True,3
+participant_92,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.1,65854,False,1
+participant_92,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",4,66924,True,4
+participant_93,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",10,7838,False,6
+participant_93,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,15,7046,False,5
+participant_93,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",18,13480,False,4
+participant_93,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",loss,8150,False,7
+participant_93,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",100,40622,False,2
+participant_93,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.1,9981,False,1
+participant_93,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",24,20030,False,3
+participant_94,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.05,27480,True,1
+participant_94,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",100,34239,False,2
+participant_94,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",47,16697,True,3
+participant_94,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",4,35243,True,4
+participant_94,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,29,9388,True,5
+participant_94,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",20,7423,True,6
+participant_94,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",profit,22604,True,7
+participant_96,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,29,17469,True,5
+participant_96,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",loss,89289,False,7
+participant_96,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",4,35465,True,4
+participant_96,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",10,84055,False,6
+participant_96,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",5,31536,True,2
+participant_96,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.5,19414,False,1
+participant_96,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",47,13631,True,3
+participant_97,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.05,158187,True,1
+participant_97,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",5,80939,True,2
+participant_97,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",47,73160,True,3
+participant_97,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",4,89713,True,4
+participant_97,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,29,101901,True,5
+participant_97,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",20,156262,True,6
+participant_97,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",profit,16305,True,7
+participant_98,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",loss,53049,False,7
+participant_98,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",20,111663,True,6
+participant_98,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,31,62736,False,5
+participant_98,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",5,57386,True,2
+participant_98,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",47,128593,True,3
+participant_98,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,0.1,18931,False,1
+participant_98,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",4,35019,True,4
+participant_99,"A man buys a pig for $60, sells it for $70, buys it back for $80, and sells it finally for $90. How much has he made?",20,257986,True,6
+participant_99,A bat and a ball cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?,2.1,40213,False,1
+participant_99,"If it takes 5 machines 5 min to make 5 widgets, how long would it take 100 machines to make 100 widgets?",100,18671,False,2
+participant_99,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",12,79840,False,3
+participant_99,"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",4,116580,True,4
+participant_99,Jerry received both the 15th highest and 15th lowest mark in the class. How many students are in the class?,15,15971,False,5
+participant_99,"Simon decided to invest $8,000 in the stock market 1 day early in 2008. Six months after he invested, in July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. At this point...",even,65152,False,7

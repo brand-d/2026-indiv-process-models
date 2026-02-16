@@ -1,0 +1,15 @@
+{
+    "data.test": "../../Data/2025_syllog_mc.csv",
+    "data.pre_train": "../../Data/2025_syllog_mc.csv",
+	"type": "loo-coverage",
+    "corresponding_data": true,
+    "models": [
+		"../ProcessModel/apg_model.py",
+		"Baselines/MFP-Model",
+		"Baselines/phm_mc/",
+		"Baselines/mreasoner_mc/",
+		"Baselines/transset/",
+		"Baselines/Uniform-Model/"
+    ],
+  "comparator": "jaccard.py"
+}

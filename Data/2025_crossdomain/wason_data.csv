@@ -1,0 +1,109 @@
+id,rt,response,solution,correct,correct_subset,difference,jacc,only_p,biconditional,all_cards
+participant_1,25302,"[""Green"", ""8""]","[""Blue"", ""8""]",False,False,"[""Blue"", ""Green""]",0.3333333333333333,False,True,False
+participant_10,61687,"[""8""]","[""Blue"", ""8""]",False,True,"[""Blue""]",0.5,True,False,False
+participant_100,46477,"[""8""]","[""Blue"", ""8""]",False,True,"[""Blue""]",0.5,True,False,False
+participant_101,138190,"[""Blue"", ""8""]","[""Blue"", ""8""]",True,True,[],1.0,False,False,False
+participant_102,52260,"[""5"", ""Green""]","[""Blue"", ""8""]",False,False,"[""5"", ""Blue"", ""Green"", ""8""]",0.0,False,False,False
+participant_103,110455,"[""Green""]","[""Blue"", ""8""]",False,False,"[""Blue"", ""Green"", ""8""]",0.0,False,False,False
+participant_104,61347,"[""8""]","[""Blue"", ""8""]",False,True,"[""Blue""]",0.5,True,False,False
+participant_105,86306,"[""5"", ""Blue"", ""Green"", ""8""]","[""Blue"", ""8""]",False,False,"[""5"", ""Green""]",0.5,False,False,True
+participant_106,29398,"[""5""]","[""Blue"", ""8""]",False,False,"[""5"", ""Blue"", ""8""]",0.0,False,False,False
+participant_107,54497,"[""8""]","[""Blue"", ""8""]",False,True,"[""Blue""]",0.5,True,False,False
+participant_109,34674,"[""Blue""]","[""Blue"", ""8""]",False,True,"[""8""]",0.5,False,False,False
+participant_11,41181,"[""8""]","[""Blue"", ""8""]",False,True,"[""Blue""]",0.5,True,False,False
+participant_111,105181,"[""Blue"", ""8""]","[""Blue"", ""8""]",True,True,[],1.0,False,False,False
+participant_112,50629,"[""8""]","[""Blue"", ""8""]",False,True,"[""Blue""]",0.5,True,False,False
+participant_113,115591,"[""8""]","[""Blue"", ""8""]",False,True,"[""Blue""]",0.5,True,False,False
+participant_12,191074,"[""5"", ""Blue"", ""Green"", ""8""]","[""Blue"", ""8""]",False,False,"[""5"", ""Green""]",0.5,False,False,True
+participant_13,39485,"[""8""]","[""Blue"", ""8""]",False,True,"[""Blue""]",0.5,True,False,False
+participant_14,38059,"[""5""]","[""Blue"", ""8""]",False,False,"[""5"", ""Blue"", ""8""]",0.0,False,False,False
+participant_15,38059,"[""5""]","[""Blue"", ""8""]",False,False,"[""5"", ""Blue"", ""8""]",0.0,False,False,False
+participant_16,51419,"[""8""]","[""Blue"", ""8""]",False,True,"[""Blue""]",0.5,True,False,False
+participant_17,491586,"[""Green""]","[""Blue"", ""8""]",False,False,"[""Blue"", ""Green"", ""8""]",0.0,False,False,False
+participant_18,53127,"[""Blue"", ""8""]","[""Blue"", ""8""]",True,True,[],1.0,False,False,False
+participant_19,26303,"[""Green""]","[""Blue"", ""8""]",False,False,"[""Blue"", ""Green"", ""8""]",0.0,False,False,False
+participant_2,25468,"[""8""]","[""Blue"", ""8""]",False,True,"[""Blue""]",0.5,True,False,False
+participant_20,21330,"[""8""]","[""Blue"", ""8""]",False,True,"[""Blue""]",0.5,True,False,False
+participant_21,20255,"[""Green"", ""8""]","[""Blue"", ""8""]",False,False,"[""Blue"", ""Green""]",0.3333333333333333,False,True,False
+participant_22,52621,"[""Green"", ""8""]","[""Blue"", ""8""]",False,False,"[""Blue"", ""Green""]",0.3333333333333333,False,True,False
+participant_23,27816,"[""8""]","[""Blue"", ""8""]",False,True,"[""Blue""]",0.5,True,False,False
+participant_24,55319,"[""5"", ""Blue"", ""8""]","[""Blue"", ""8""]",False,False,"[""5""]",0.6666666666666666,False,False,False
+participant_25,55883,"[""Green"", ""8""]","[""Blue"", ""8""]",False,False,"[""Blue"", ""Green""]",0.3333333333333333,False,True,False
+participant_26,26785,"[""8""]","[""Blue"", ""8""]",False,True,"[""Blue""]",0.5,True,False,False
+participant_27,20011,"[""8""]","[""Blue"", ""8""]",False,True,"[""Blue""]",0.5,True,False,False
+participant_28,101092,"[""8""]","[""Blue"", ""8""]",False,True,"[""Blue""]",0.5,True,False,False
+participant_29,77585,"[""Green"", ""8""]","[""Blue"", ""8""]",False,False,"[""Blue"", ""Green""]",0.3333333333333333,False,True,False
+participant_3,27305,"[""8""]","[""Blue"", ""8""]",False,True,"[""Blue""]",0.5,True,False,False
+participant_30,68247,"[""8""]","[""Blue"", ""8""]",False,True,"[""Blue""]",0.5,True,False,False
+participant_31,35455,"[""8""]","[""Blue"", ""8""]",False,True,"[""Blue""]",0.5,True,False,False
+participant_32,37816,"[""5"", ""8""]","[""Blue"", ""8""]",False,False,"[""5"", ""Blue""]",0.3333333333333333,False,False,False
+participant_33,60812,"[""8""]","[""Blue"", ""8""]",False,True,"[""Blue""]",0.5,True,False,False
+participant_34,29722,"[""Green"", ""8""]","[""Blue"", ""8""]",False,False,"[""Blue"", ""Green""]",0.3333333333333333,False,True,False
+participant_35,25090,"[""8""]","[""Blue"", ""8""]",False,True,"[""Blue""]",0.5,True,False,False
+participant_36,55128,"[""8""]","[""Blue"", ""8""]",False,True,"[""Blue""]",0.5,True,False,False
+participant_37,14821,"[""8""]","[""Blue"", ""8""]",False,True,"[""Blue""]",0.5,True,False,False
+participant_38,41065,"[""5"", ""8""]","[""Blue"", ""8""]",False,False,"[""5"", ""Blue""]",0.3333333333333333,False,False,False
+participant_39,45815,"[""Green"", ""8""]","[""Blue"", ""8""]",False,False,"[""Blue"", ""Green""]",0.3333333333333333,False,True,False
+participant_4,116065,"[""8""]","[""Blue"", ""8""]",False,True,"[""Blue""]",0.5,True,False,False
+participant_40,41793,"[""8""]","[""Blue"", ""8""]",False,True,"[""Blue""]",0.5,True,False,False
+participant_41,32682,"[""8""]","[""Blue"", ""8""]",False,True,"[""Blue""]",0.5,True,False,False
+participant_42,49533,"[""Green""]","[""Blue"", ""8""]",False,False,"[""Blue"", ""Green"", ""8""]",0.0,False,False,False
+participant_43,77696,[],"[""Blue"", ""8""]",False,True,"[""Blue"", ""8""]",0.0,False,False,False
+participant_44,34391,"[""8""]","[""Blue"", ""8""]",False,True,"[""Blue""]",0.5,True,False,False
+participant_45,45031,"[""8""]","[""Blue"", ""8""]",False,True,"[""Blue""]",0.5,True,False,False
+participant_46,49994,"[""Green"", ""8""]","[""Blue"", ""8""]",False,False,"[""Blue"", ""Green""]",0.3333333333333333,False,True,False
+participant_47,21757,"[""8""]","[""Blue"", ""8""]",False,True,"[""Blue""]",0.5,True,False,False
+participant_48,62921,"[""Green"", ""8""]","[""Blue"", ""8""]",False,False,"[""Blue"", ""Green""]",0.3333333333333333,False,True,False
+participant_49,49978,"[""8""]","[""Blue"", ""8""]",False,True,"[""Blue""]",0.5,True,False,False
+participant_5,60203,[],"[""Blue"", ""8""]",False,True,"[""Blue"", ""8""]",0.0,False,False,False
+participant_50,54705,"[""Green"", ""8""]","[""Blue"", ""8""]",False,False,"[""Blue"", ""Green""]",0.3333333333333333,False,True,False
+participant_51,94043,"[""5"", ""Green""]","[""Blue"", ""8""]",False,False,"[""5"", ""Blue"", ""Green"", ""8""]",0.0,False,False,False
+participant_52,28624,"[""Green"", ""8""]","[""Blue"", ""8""]",False,False,"[""Blue"", ""Green""]",0.3333333333333333,False,True,False
+participant_53,23396,"[""8""]","[""Blue"", ""8""]",False,True,"[""Blue""]",0.5,True,False,False
+participant_54,57064,"[""8""]","[""Blue"", ""8""]",False,True,"[""Blue""]",0.5,True,False,False
+participant_55,326979,"[""Blue""]","[""Blue"", ""8""]",False,True,"[""8""]",0.5,False,False,False
+participant_56,32110,"[""8""]","[""Blue"", ""8""]",False,True,"[""Blue""]",0.5,True,False,False
+participant_57,56716,"[""Green""]","[""Blue"", ""8""]",False,False,"[""Blue"", ""Green"", ""8""]",0.0,False,False,False
+participant_58,49978,"[""8""]","[""Blue"", ""8""]",False,True,"[""Blue""]",0.5,True,False,False
+participant_59,88507,"[""8""]","[""Blue"", ""8""]",False,True,"[""Blue""]",0.5,True,False,False
+participant_6,53445,"[""5"", ""Blue"", ""Green"", ""8""]","[""Blue"", ""8""]",False,False,"[""5"", ""Green""]",0.5,False,False,True
+participant_60,26326,"[""8""]","[""Blue"", ""8""]",False,True,"[""Blue""]",0.5,True,False,False
+participant_61,82254,[],"[""Blue"", ""8""]",False,True,"[""Blue"", ""8""]",0.0,False,False,False
+participant_62,40119,"[""5"", ""8""]","[""Blue"", ""8""]",False,False,"[""5"", ""Blue""]",0.3333333333333333,False,False,False
+participant_63,26886,"[""8""]","[""Blue"", ""8""]",False,True,"[""Blue""]",0.5,True,False,False
+participant_64,40845,"[""8""]","[""Blue"", ""8""]",False,True,"[""Blue""]",0.5,True,False,False
+participant_65,22751,[],"[""Blue"", ""8""]",False,True,"[""Blue"", ""8""]",0.0,False,False,False
+participant_66,52245,"[""Blue"", ""Green"", ""8""]","[""Blue"", ""8""]",False,False,"[""Green""]",0.6666666666666666,False,False,False
+participant_67,21002,"[""8""]","[""Blue"", ""8""]",False,True,"[""Blue""]",0.5,True,False,False
+participant_68,49905,"[""Green"", ""8""]","[""Blue"", ""8""]",False,False,"[""Blue"", ""Green""]",0.3333333333333333,False,True,False
+participant_69,29864,"[""8""]","[""Blue"", ""8""]",False,True,"[""Blue""]",0.5,True,False,False
+participant_7,70845,"[""Green"", ""8""]","[""Blue"", ""8""]",False,False,"[""Blue"", ""Green""]",0.3333333333333333,False,True,False
+participant_70,28365,"[""8""]","[""Blue"", ""8""]",False,True,"[""Blue""]",0.5,True,False,False
+participant_71,32110,"[""8""]","[""Blue"", ""8""]",False,True,"[""Blue""]",0.5,True,False,False
+participant_72,134656,"[""8""]","[""Blue"", ""8""]",False,True,"[""Blue""]",0.5,True,False,False
+participant_73,51462,"[""8""]","[""Blue"", ""8""]",False,True,"[""Blue""]",0.5,True,False,False
+participant_74,116190,"[""8""]","[""Blue"", ""8""]",False,True,"[""Blue""]",0.5,True,False,False
+participant_75,90233,"[""5"", ""Blue"", ""Green"", ""8""]","[""Blue"", ""8""]",False,False,"[""5"", ""Green""]",0.5,False,False,True
+participant_76,77380,"[""5"", ""8""]","[""Blue"", ""8""]",False,False,"[""5"", ""Blue""]",0.3333333333333333,False,False,False
+participant_77,41505,"[""8""]","[""Blue"", ""8""]",False,True,"[""Blue""]",0.5,True,False,False
+participant_78,29251,"[""Green"", ""8""]","[""Blue"", ""8""]",False,False,"[""Blue"", ""Green""]",0.3333333333333333,False,True,False
+participant_79,37112,"[""Green"", ""8""]","[""Blue"", ""8""]",False,False,"[""Blue"", ""Green""]",0.3333333333333333,False,True,False
+participant_8,52387,"[""5"", ""Blue"", ""8""]","[""Blue"", ""8""]",False,False,"[""5""]",0.6666666666666666,False,False,False
+participant_80,88971,"[""5""]","[""Blue"", ""8""]",False,False,"[""5"", ""Blue"", ""8""]",0.0,False,False,False
+participant_81,81024,"[""8""]","[""Blue"", ""8""]",False,True,"[""Blue""]",0.5,True,False,False
+participant_83,31066,"[""Green"", ""8""]","[""Blue"", ""8""]",False,False,"[""Blue"", ""Green""]",0.3333333333333333,False,True,False
+participant_84,31096,"[""Green"", ""8""]","[""Blue"", ""8""]",False,False,"[""Blue"", ""Green""]",0.3333333333333333,False,True,False
+participant_85,28110,"[""Green"", ""8""]","[""Blue"", ""8""]",False,False,"[""Blue"", ""Green""]",0.3333333333333333,False,True,False
+participant_86,30948,"[""8""]","[""Blue"", ""8""]",False,True,"[""Blue""]",0.5,True,False,False
+participant_87,794881,"[""Green"", ""8""]","[""Blue"", ""8""]",False,False,"[""Blue"", ""Green""]",0.3333333333333333,False,True,False
+participant_88,92259,"[""5"", ""Green""]","[""Blue"", ""8""]",False,False,"[""5"", ""Blue"", ""Green"", ""8""]",0.0,False,False,False
+participant_89,61242,"[""Blue""]","[""Blue"", ""8""]",False,True,"[""8""]",0.5,False,False,False
+participant_9,142503,"[""5"", ""Blue"", ""8""]","[""Blue"", ""8""]",False,False,"[""5""]",0.6666666666666666,False,False,False
+participant_90,92544,"[""Green"", ""8""]","[""Blue"", ""8""]",False,False,"[""Blue"", ""Green""]",0.3333333333333333,False,True,False
+participant_91,50654,"[""Green""]","[""Blue"", ""8""]",False,False,"[""Blue"", ""Green"", ""8""]",0.0,False,False,False
+participant_92,151620,"[""5""]","[""Blue"", ""8""]",False,False,"[""5"", ""Blue"", ""8""]",0.0,False,False,False
+participant_94,46365,"[""8""]","[""Blue"", ""8""]",False,True,"[""Blue""]",0.5,True,False,False
+participant_95,29717,"[""Green"", ""8""]","[""Blue"", ""8""]",False,False,"[""Blue"", ""Green""]",0.3333333333333333,False,True,False
+participant_96,93325,"[""8""]","[""Blue"", ""8""]",False,True,"[""Blue""]",0.5,True,False,False
+participant_98,67092,"[""8""]","[""Blue"", ""8""]",False,True,"[""Blue""]",0.5,True,False,False
+participant_99,155719,"[""Green""]","[""Blue"", ""8""]",False,False,"[""Blue"", ""Green"", ""8""]",0.0,False,False,False
