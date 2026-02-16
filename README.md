@@ -80,4 +80,4 @@ The CSV-file is optional, if not provided, the results of our paper will be load
 
 - Brand, D., Bombach, C., & Ragni, M. (2026). Data-Driven Construction of Individualized Process Models for Human Reasoning. 
 
-- Brand, D., & Ragni, M. (2025). Using Cross-Domain Data to Predict Syllogistic Reasoning Behavior. Proceedings of the 47th Annual Meeting of the Cognitive Science Society.
+- Brand, D., & Ragni, M. (2025). Using Cross-Domain Data to Predict Syllogistic Reasoning Behavior. *Proceedings of the 47th Annual Meeting of the Cognitive Science Society*.
