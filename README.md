@@ -29,6 +29,8 @@ This also installs [CCOBRA](https://github.com/CognitiveComputationLab/ccobra), 
     - `2025_syllog_mc.csv`: Contains the syllogistic dataset used in the paper.
     - `domain_info.py`: Helper file for preprocessing.
     - `preprocess_data.py`: Generates `2025_syllog_mc.csv` by bringing the respective original data in the format required by CCOBRA (which the global model evaluation is based on).
+- `Paper`: Contains the paper as PDF.
+- `Poster`: Contains the poster as PDF.
 
 ## Replicating the local model analysis
 
